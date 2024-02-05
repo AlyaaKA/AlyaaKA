@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlyaaKA
-- 👀 I’m interested in ML, Python & Data Analysis
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on Ml, Data Analysis and Python projects
+- 👀 I’m interested in AI and Python.
+- 🌱 I’m currently learning Deep Learning
+- 💞️ I’m looking to collaborate on AI and Python projects.
 - 📫 How to reach me: you can send me email on alyaaka@gmail.com or send me on my Instgram profile https://www.instagram.com/alyaak.a/
 
 <!---
